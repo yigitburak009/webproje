@@ -4,3 +4,10 @@ nasıl faydalandığımız not etcez
 ai a sorduğum soru
 verdiği cevap
 ve bu cevabı nasıl kullandığımız
+14.10.26 Çarşamba
+soru: Web proje dersi için proje yapmam gerekiyor ne yapabilirim örneklendirme ver
+cevap: Nerede Ne Yenir Mekan ve Lezzet Rehberi 
+Konu: Kullanıcıların şehir bazlı veya yemek türüne göre mekan sorguladığı bi platform
+Özellikler: Mekan filtreleme (katagori,fiyat,puan)
+            Kullanıcı yorumu 
+            Harita üzerinde mekanları gösterme
