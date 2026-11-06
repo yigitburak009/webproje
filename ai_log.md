@@ -39,7 +39,7 @@ export function FilterBar({
   />
         </form>
         <select
-          value={filters.city ?? ""}
+          value={filters.sehir ?? ""}
           onChange={(e) => apply({ city: e.target.value || undefined })}
           value={filters.sehir ?? ""}
           onChange={(e) => apply({ sehir: e.target.value || undefined })}
